@@ -3,6 +3,16 @@ ads_covid19
 
 Applying data science tools to analyze the spread of COVID-19 virus
 
+## Dashboards
+
+**1. Virus spread and doubling rate for individual country**
+
+![dashboard_1](https://github.com/asmita005/ads_covid19/blob/master/reports/figures/dashboard_confirmed_cases.png)
+
+**2. SIR model - infection and recovery rate for individual country**
+
+![dashboard_2](https://github.com/asmita005/ads_covid19/blob/master/reports/figures/dashboard_SIR.png)
+
 Project Organization
 ------------
 
